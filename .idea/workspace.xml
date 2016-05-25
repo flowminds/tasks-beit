@@ -32,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/tasks/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
@@ -84,6 +84,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -112,6 +122,7 @@
         <option value="$PROJECT_DIR$/resources/views/tasks/index.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/master.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/TasksController.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -425,7 +436,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="SearchEverywhereHistoryKey" value="route&#9;null&#9;null&#10;task.&#9;FILE&#9;file:///Users/mirovit/Flowminds/beit-2016/tasks-laravel/app/Task.php&#10;create_t&#9;FILE&#9;file:///Users/mirovit/Flowminds/beit-2016/tasks-laravel/database/migrations/2016_05_25_062503_create_tasks_table.php&#10;taskr&#9;null&#9;null&#10;tasks&#9;null&#9;null&#10;routes.&#9;FILE&#9;file:///Users/mirovit/Flowminds/beit-2016/tasks-laravel/app/Http/routes.php" />
+    <property name="SearchEverywhereHistoryKey" value="gitignore&#9;FILE&#9;file:///Users/mirovit/Flowminds/beit-2016/tasks-laravel/.gitignore&#10;route&#9;null&#9;null&#10;task.&#9;FILE&#9;file:///Users/mirovit/Flowminds/beit-2016/tasks-laravel/app/Task.php&#10;create_t&#9;FILE&#9;file:///Users/mirovit/Flowminds/beit-2016/tasks-laravel/database/migrations/2016_05_25_062503_create_tasks_table.php&#10;taskr&#9;null&#9;null&#10;tasks&#9;null&#9;null&#10;routes.&#9;FILE&#9;file:///Users/mirovit/Flowminds/beit-2016/tasks-laravel/app/Http/routes.php" />
     <property name="FullScreen" value="true" />
   </component>
   <component name="RunManager">
@@ -475,12 +486,12 @@
       <updated>1464117792072</updated>
       <workItem from="1464117795966" duration="551000" />
       <workItem from="1464156897036" duration="1964000" />
-      <workItem from="1464159336389" duration="6957000" />
+      <workItem from="1464159336389" duration="7062000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9472000" />
+    <option name="totallyTimeSpent" value="9577000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -741,6 +752,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="78" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
           <folding />
         </state>
       </provider>
